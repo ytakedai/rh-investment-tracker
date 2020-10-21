@@ -1,0 +1,2 @@
+STOCKS = pd.read_csv("stocks.csv")
+print(STOCKS.dtypes)
